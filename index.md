@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm Software developer focusing on Back End Project and sometime on Front End. 
